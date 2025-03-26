@@ -96,11 +96,6 @@ Company X aims to integrate AI into movie streaming apps for actor recognition, 
 │   ├── code/
 │   │   ├── CV_1_ISHANT_KUNDRA.ipynb
 │   │   └── CV_1_ISHANT_KUNDRA.html
-│   ├── dataset/
-│   │   ├── plant-seedlings-classification/
-│   │   ├── plant-seedlings-classification.zip
-│   │   ├── Prediction - Flower.jpg
-│   │   └── __MACOSX/
 │   └── problem statement/
 │       └── CV 1 - Problem_Statement.pdf
 
@@ -108,23 +103,8 @@ Company X aims to integrate AI into movie streaming apps for actor recognition, 
 │   ├── code/
 │   │   ├── CV_2_MultiModule_FaceRecognition.ipynb
 │   │   └── CV_2_MultiModule_FaceRecognition.html
-│   ├── dataset/
-│   │   ├── images.npy
-│   │   ├── training_images/
-│   │   ├── training_images.zip
-│   │   ├── vgg_face_weights.h5
-│   │   ├── PINS.zip
-│   │   ├── PINS/
-│   │   ├── Benedict_Cumberbatch9.jpg
-│   │   ├── Dwayne_Johnson4.jpg
-│   │   └── face_metadata.csv
 │   └── problem statement/
 │       └── CV 2 - Problem_Statement.pdf
-
-├── screenshots/
-│   ├── Screenshot_dataset_plant.png
-│   ├── Screenshot_dataset_faces.png
-
 ├── README.md
 └── .gitignore
 </pre>
